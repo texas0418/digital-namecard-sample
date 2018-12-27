@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Doe;John;;;
+FN: John Doe 
+ORG:yourcomany.com;
+TITLE:Designer | Builder | Problem Solver
+EMAIL;type=INTERNET;type=WORK;type=pref:youremailaddress@company.com
+TEL;type=WORK;type=VOICE:1.555.555.1234
+item1.ADR;type=WORK;type=pref:;;1 123 Main St Ste #888 New York, NY 12345
+item1.X-ABADR:sg
+item2.URL;type=pref:yourcomany.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD

@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Erasmus;Inge;;;
+FN: Inge Erasmus
+ORG:Infinite Ideas.com;
+TITLE:Designer | Builder | Problem Solver
+EMAIL;type=INTERNET;type=WORK;type=pref:inge.erasmus@infinite-ideas.co.za
+TEL;type=WORK;type=VOICE:27.61.709.4856
+item1.ADR;type=WORK;type=pref:;; Tweefontein  #Polokwane, Limpopo
+item1.X-ABADR:sg
+item2.URL;type=pref:www.infinite-ideas.co.za
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
